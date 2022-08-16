@@ -1,5 +1,5 @@
 # Final Project
-Repositório com meu Projeto Final, proposto na disciplina de Programação de Computadores, na linguagem C.
+Repositório com nosso Projeto Final, proposto na disciplina de Programação de Computadores, na linguagem C.
 
 ## Objetivo
 
