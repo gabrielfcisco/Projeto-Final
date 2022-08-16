@@ -3,7 +3,7 @@ Repositório com meu Projeto Final, proposto na disciplina de Programação de C
 
 ## Objetivo
 
-Desenvolver um jogo, baseado em anagramas, inspirado no site [Racha Cuca] (https://rachacuca.com.br/palavras/sopa-de-letras/).
+Desenvolver um jogo, baseado em anagramas, inspirado no site [Racha Cuca](https://rachacuca.com.br/palavras/sopa-de-letras/).
 
 ## Descrição
 
