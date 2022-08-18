@@ -1,4 +1,4 @@
-# Final Project
+# Projeto Final
 Repositório com nosso Projeto Final, proposto na disciplina de Programação de Computadores, na linguagem C.
 
 ## Objetivo
@@ -22,3 +22,5 @@ INÍCIO:
       ii. Se não, incluí-la em Acertos e ir para nova leitura;
       
    - b. Se não, ignorá-la e ir para nova leitura de palavras.
+ 
+ ### Qualquer dúvida ou contribuição, é só me contatar!
