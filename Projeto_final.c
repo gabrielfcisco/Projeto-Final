@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <ctype.h>
-
+// fhghsdvdskvb
 /// defines do tamanho do banco de palavras e das cores utilizadas
 #define TAM 30
 #define COLOR_RED "\x1b[31m"
